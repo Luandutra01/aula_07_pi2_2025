@@ -19,3 +19,6 @@ build/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Roteiro
+roteiro.md
