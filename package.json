@@ -9,15 +9,23 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "install": "^0.13.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.18.3",
+    "mongoose": "^8.19.0",
     "nodemon": "^3.1.10",
     "npm": "^11.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreluizfrancabatista/aula_07_pi2_2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreluizfrancabatista/aula_07_pi2_2025/issues"
+  },
+  "homepage": "https://github.com/andreluizfrancabatista/aula_07_pi2_2025#readme",
+  "description": ""
 }
